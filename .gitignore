@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.pth
+*.pt
+*.dcm
+*.zip
+*.tar.gz
+.ipynb_checkpoints/
+*.log
